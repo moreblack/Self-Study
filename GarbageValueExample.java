@@ -1,4 +1,4 @@
-public class GarbageValueExample{
+public class GarbageValueExample{//#byte 타입 변수#
     public static void main(String[] args) {
        byte var1 = 125;
        int var2 = 125;

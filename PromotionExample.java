@@ -1,4 +1,4 @@
-public class PromotionExample {
+public class PromotionExample {//#자동 타입 변환#
     public static void main(String[] args) {
         byte byteValue = 10;
         int intValue = byteValue;  // int <- byte

@@ -1,4 +1,4 @@
-public class BooleanExample {
+public class BooleanExample {//#boolean 타입#
     public static void main(String[] args) {
         boolean stop = false;  //<-- True 이면 if구문실행 false 이면 else 부분 실행
         if (stop) {

@@ -1,4 +1,4 @@
-public class OperationPromotionExample {
+public class OperationPromotionExample {//#연산식에서 자동 타입 변환#
     public static void main(String[] args) {
         byte byteValue1 = 10;
         byte byteValue2 = 20;

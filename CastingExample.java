@@ -1,4 +1,4 @@
-public class CastingExample {
+public class CastingExample {//#강제 타입 변환#
     public static void main(String[] args) {
         int intValue = 44032;
         char charValue = (char) intValue;

@@ -1,4 +1,4 @@
-public class VariableScopeExample {
+public class VariableScopeExample {//#변수의 사용 범위#
     public static void main(String[] args) {
        int v1 = 15;
        

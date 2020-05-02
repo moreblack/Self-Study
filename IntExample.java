@@ -1,4 +1,4 @@
-public class IntExample {
+public class IntExample {//#int 타입 변수#
     public static void main(String[] args) {
         int var1 = 10;
         int var2 = 012;

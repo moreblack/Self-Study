@@ -1,4 +1,4 @@
-public class CheckValueBeforeCasting {
+public class CheckValueBeforeCasting {//#변환으로 인한 데이터 손실을 발생되지 않도록 한다.#
     public static void main(String[] args) {
         int i =128;   
 

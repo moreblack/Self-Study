@@ -1,4 +1,4 @@
-public class SignOperatorExample {
+public class SignOperatorExample {//#부호 연산자#
     public static void main(String[] args) {
         int x = -100;
         int result1 = +x;

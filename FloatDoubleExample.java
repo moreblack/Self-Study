@@ -1,4 +1,4 @@
-public class FloatDoubleExample {
+public class FloatDoubleExample {//#float과 double 타입#
     public static void main(String[] args) {
         //실수값 저장
         double var1 = 3.14;

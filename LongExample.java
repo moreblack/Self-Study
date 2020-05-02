@@ -1,4 +1,4 @@
-public class LongExample {
+public class LongExample {//#long 타입 변수#
     public static void main(String[] args) {
         long var1 = 10;
         long var2 = 20L;
